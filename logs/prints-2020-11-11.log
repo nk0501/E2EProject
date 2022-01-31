@@ -1,0 +1,7 @@
+18:06:00.026 [main] INFO  resources.Base - Data is validated successfully
+18:06:19.337 [main] INFO  resources.Base - Driver is initialized
+18:06:29.245 [main] INFO  resources.Base - Navigated to the desired url
+18:08:43.875 [TestNG-tests-2] INFO  resources.Base - Driver is initialized
+18:09:03.495 [TestNG-tests-3] INFO  resources.Base - Navigation bar is displayed
+18:09:06.341 [TestNG-tests-2] INFO  resources.Base - Navigated to the desired url
+18:09:09.288 [TestNG-tests-1] INFO  resources.Base - Data is validated successfully

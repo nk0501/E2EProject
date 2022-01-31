@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="20420" started-at="2021-04-27T15:30:38Z" finished-at="2021-04-27T15:30:59Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="20420" started-at="2021-04-27T15:30:38Z" finished-at="2021-04-27T15:30:59Z">
+      <class name="Academy.ValidateNavigation">
+        <test-method status="PASS" signature="validateNavigationBar()[pri:0, instance:Academy.ValidateNavigation@ba2f4ec]" name="validateNavigationBar" duration-ms="19994" started-at="2021-04-27T15:30:38Z" finished-at="2021-04-27T15:30:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateNavigationBar -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Academy.ValidateNavigation@ba2f4ec]" name="tearDown" is-config="true" duration-ms="380" started-at="2021-04-27T15:30:58Z" finished-at="2021-04-27T15:30:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Academy.ValidateNavigation -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

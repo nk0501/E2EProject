@@ -1,0 +1,7 @@
+19:19:22.007 [TestNG-tests-3] INFO  resources.Base - Navigation bar is displayed
+19:19:35.021 [TestNG-tests-1] INFO  resources.Base - Data is validated successfully
+19:19:55.420 [TestNG-tests-1] INFO  resources.Base - Data is validated successfully
+19:20:16.190 [TestNG-tests-2] INFO  resources.Base - Driver is initialized
+19:20:28.211 [TestNG-tests-3] INFO  resources.Base - Navigation bar is displayed
+19:20:30.098 [TestNG-tests-2] INFO  resources.Base - Navigated to the desired url
+19:20:30.247 [TestNG-tests-2] INFO  resources.Base - Successfully validated the content

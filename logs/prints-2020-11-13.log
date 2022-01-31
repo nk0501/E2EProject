@@ -1,0 +1,7 @@
+12:39:43.459 [main] INFO  resources.Base - Successfully validated the content
+12:40:05.397 [main] INFO  resources.Base - Navigation bar is displayed
+12:40:39.037 [main] INFO  resources.Base - Driver is initialized
+12:40:41.453 [main] INFO  resources.Base - Navigated to the desired url
+12:40:41.708 [main] INFO  resources.Base - Successfully validated the content
+12:41:54.877 [main] INFO  resources.Base - Driver is initialized
+12:41:57.867 [main] INFO  resources.Base - Navigated to the desired url

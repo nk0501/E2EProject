@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">                                        <!--         <suite name="Suite" parallel="tests">         -->
+<listeners>
+<listener class-name="Academy.Listeners"/>                  <!--  Information of the Listner file  -->
+</listeners>
+  <test name="Validating User Login">
+    <classes>
+      <class name="Academy.HomePage"/>
+     </classes>
+   </test>   
+   <test name="Validating Title of Page">
+    <classes>
+      <class name="Academy.ValidateTitle"/>
+    </classes>
+   </test> 
+      <test name="Validating Navigation ">
+       <classes>
+      <class name="Academy.ValidateNavigation"/>
+    </classes>
+  </test> 
+</suite>  <!-- All the classes are placed in separate test suite for sequential execution . Also, in every class, write " public WebDriver driver " -->
+
